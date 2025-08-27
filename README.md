@@ -4,7 +4,7 @@
 I am a junior full-stack developer trying to learn it all.
 
 ### Currently Learning....
-#### Next.js
+#### Laravel
 
 
 ## 🌐 Socials:
