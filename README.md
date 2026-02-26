@@ -3,13 +3,6 @@
 # About Me:
 I am a junior full-stack developer trying to learn it all.
 
-### Currently Learning....
-#### Laravel
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justin-sumiye-702744280) 
-
 # 💻 Tech Stack:
 
 ## Languages
@@ -27,7 +20,7 @@ I am a junior full-stack developer trying to learn it all.
 
 ## Deployment
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)  
 
 ## UX/UI
 
@@ -40,9 +33,6 @@ I am a junior full-stack developer trying to learn it all.
 # 📊 GitHub Stats:
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=jsumiye&theme=tokyonight&hide_border=false)<br/>
-
-  <h2>公平欲しい</h2>
-
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
